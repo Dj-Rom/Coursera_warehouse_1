@@ -42,7 +42,7 @@ internal class Program
                 case "5":
                     Console.Clear();
                     Console.WriteLine("Exiting program...");
-                    return; // exits program
+                    return; 
 
                 default:
                     Console.Clear();
@@ -199,7 +199,7 @@ internal class Program
             case "4":
                 Console.Clear();
                 Console.WriteLine("Exiting program...");
-                return; // exits program
+                return; 
 
             default:
                 Console.Clear();
@@ -258,4 +258,5 @@ internal class Program
    
     }
     
+
 }
