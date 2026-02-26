@@ -1,0 +1,14 @@
+D:\wm\WMS\warehouse_coursera\bin\Release\net9.0\warehouse_coursera.exe
+D:\wm\WMS\warehouse_coursera\bin\Release\net9.0\warehouse_coursera.deps.json
+D:\wm\WMS\warehouse_coursera\bin\Release\net9.0\warehouse_coursera.runtimeconfig.json
+D:\wm\WMS\warehouse_coursera\bin\Release\net9.0\warehouse_coursera.dll
+D:\wm\WMS\warehouse_coursera\bin\Release\net9.0\warehouse_coursera.pdb
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.GeneratedMSBuildEditorConfig.editorconfig
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.AssemblyInfoInputs.cache
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.AssemblyInfo.cs
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.csproj.CoreCompileInputs.cache
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.dll
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\refint\warehouse_coursera.dll
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.pdb
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\warehouse_coursera.genruntimeconfig.cache
+D:\wm\WMS\warehouse_coursera\obj\Release\net9.0\ref\warehouse_coursera.dll
